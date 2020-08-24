@@ -25,10 +25,6 @@
     "ios": {
       "supportsTablet": true
     },
-    "android": {
-      "package": "com.vcare",
-      "googleServicesFile": "./google-services.json"
-    },
     "web": {
       "favicon": "./assets/images/favicon.png"
     },
